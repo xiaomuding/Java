@@ -1,0 +1,36 @@
+class:
+
+1.Snack----
+2.Food
+3.Ground
+4.GamePanel
+
+
+method:
+
+1.move()
+2.eatFood()
+3.changeDirection()
+4.draw()
+5.eatSelf
+
+
+1.isEatBySnack(Snack snack)
+2.drawMe
+
+1.isEatBySnack(Snack snack)
+2.drawMe
+
+
+1.display()
+override paintComponent
+
+
+
+
+
+
+
+
+
+
